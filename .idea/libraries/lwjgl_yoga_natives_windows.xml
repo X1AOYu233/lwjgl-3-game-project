@@ -1,0 +1,72 @@
+<component name="libraryTable">
+  <library name="lwjgl-yoga-natives-windows">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-yoga/lwjgl-yoga-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-glfw/lwjgl-glfw-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-bgfx/lwjgl-bgfx-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-nuklear/lwjgl-nuklear-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-openvr/lwjgl-openvr-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-jemalloc/lwjgl-jemalloc-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-bgfx/lwjgl-bgfx-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-lmdb/lwjgl-lmdb-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-assimp/lwjgl-assimp-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-lmdb/lwjgl-lmdb-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-sse/lwjgl-sse-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl/lwjgl-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-glfw/lwjgl-glfw-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-par/lwjgl-par-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-opengl/lwjgl-opengl-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-glfw/lwjgl-glfw-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-nanovg/lwjgl-nanovg-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl/lwjgl-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-jemalloc/lwjgl-jemalloc-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-nanovg/lwjgl-nanovg-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-tinyexr/lwjgl-tinyexr-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-rpmalloc/lwjgl-rpmalloc-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-nfd/lwjgl-nfd-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-openal/lwjgl-openal-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-sse/lwjgl-sse-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-openvr/lwjgl-openvr-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-bgfx/lwjgl-bgfx-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-opengl/lwjgl-opengl-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-nfd/lwjgl-nfd-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-nuklear/lwjgl-nuklear-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-openal/lwjgl-openal-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-par/lwjgl-par-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-rpmalloc/lwjgl-rpmalloc-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-openvr/lwjgl-openvr-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-par/lwjgl-par-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-opengl/lwjgl-opengl-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl/lwjgl-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-stb/lwjgl-stb-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-rpmalloc/lwjgl-rpmalloc-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-nanovg/lwjgl-nanovg-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-openal/lwjgl-openal-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-opengles/lwjgl-opengles-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-assimp/lwjgl-assimp-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-sse/lwjgl-sse-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-nuklear/lwjgl-nuklear-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-opengles/lwjgl-opengles-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-jemalloc/lwjgl-jemalloc-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-stb/lwjgl-stb-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-nfd/lwjgl-nfd-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-assimp/lwjgl-assimp-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-stb/lwjgl-stb-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-lmdb/lwjgl-lmdb-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-opengles/lwjgl-opengles-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-tinyexr/lwjgl-tinyexr-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-tinyexr/lwjgl-tinyexr-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-tinyfd/lwjgl-tinyfd-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-tinyfd/lwjgl-tinyfd-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-tinyfd/lwjgl-tinyfd-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-xxhash/lwjgl-xxhash-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-xxhash/lwjgl-xxhash-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-xxhash/lwjgl-xxhash-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-yoga/lwjgl-yoga-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl-3.1.3/lwjgl-yoga/lwjgl-yoga-natives-macos.jar!/" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,72 @@
+<component name="libraryTable">
+  <library name="lwjgl-assimp-natives-linux">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-assimp-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-assimp-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-assimp-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-bgfx-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-bgfx-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-bgfx-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-glfw-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-glfw-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-glfw-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-jemalloc-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-jemalloc-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-jemalloc-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-lmdb-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-lmdb-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-lmdb-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-nanovg-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-nanovg-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-nanovg-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-nfd-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-nfd-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-nfd-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-nuklear-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-nuklear-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-nuklear-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-openal-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-openal-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-openal-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-opengl-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-opengl-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-opengl-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-opengles-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-opengles-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-opengles-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-openvr-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-openvr-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-openvr-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-par-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-par-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-par-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-rpmalloc-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-rpmalloc-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-rpmalloc-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-sse-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-sse-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-sse-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-stb-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-stb-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-stb-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-tinyexr-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-tinyexr-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-tinyexr-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-tinyfd-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-tinyfd-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-tinyfd-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-xxhash-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-xxhash-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-xxhash-natives-windows" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-yoga-natives-linux" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-yoga-natives-macos" />
+      <root url="file://$PROJECT_DIR$/lwjgl-3.1.3/native/lwjgl-yoga-natives-windows" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>

@@ -8,6 +8,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="lwjgl-yoga" level="project" />
-    <orderEntry type="library" name="lwjgl-yoga-natives-windows" level="project" />
+    <orderEntry type="library" name="lwjgl-yoga-natives-windows" level="application" />
+    <orderEntry type="library" name="lwjgl" level="application" />
+    <orderEntry type="library" name="lwjgl-assimp-natives-linux" level="project" />
   </component>
 </module>
